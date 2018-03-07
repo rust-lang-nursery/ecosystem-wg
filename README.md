@@ -1,4 +1,4 @@
-# ecosystem-wg
+# Ecosystem Working Group
 
 > Coordination repository of the ecosystem Working Group (WG)
 
@@ -21,6 +21,7 @@ The ecosystem working group is like the [2017 libz blitz] but a bit less structu
 
 - Polish the API Guidelines to `1.0`
 - Polish the Cookbook to `1.0`
+- Support better visibility and discoverability of the crates ecosystem
 - Support more libz-blitz-style evaluations
 - Look at cross-cutting ecosystem concerns
 
@@ -29,6 +30,7 @@ The ecosystem working group is like the [2017 libz blitz] but a bit less structu
 - [@aturon](https://github.com/aturon)
 - [@kodraus](https://github.com/kodraus)
 - [@sfackler](https://github.com/sfackler)
+- [@vitiral](https://github.com/vitiral)
 - [@withoutboats](https://github.com/withoutboats)
 
 Would you like to get involved? Have a look through the set of issues, open new ones, and reach out on [gitter]!
