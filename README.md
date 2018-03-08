@@ -15,6 +15,7 @@ The ecosystem working group is like the [2017 libz blitz] but a bit less structu
 ### Sustainable Consumption
 
 - Support stabilizing libraries growing their maintainership
+- Support discoverability of tools that help projects manage their maintenance
 - Collect our experiences from maintaining Rust libraries into a set of Maintainership Guidelines
 
 ### Mature Ecosystem
