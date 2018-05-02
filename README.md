@@ -28,6 +28,7 @@ The ecosystem working group is like the [2017 libz blitz] but a bit less structu
 
 ## Roster
 
+- [@AndyGauge](https://github.com/AndyGauge)
 - [@aturon](https://github.com/aturon)
 - [@kodraus](https://github.com/kodraus)
 - [@sfackler](https://github.com/sfackler)
